@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+}
+
+
+.text-black{
+  margin-left:500px;
+}
+
+.card-img-top{
+  width: 35px;
+  height: 35px;
+}
+
+.card-name{
+  font-family: Roboto;
+  font-size: 22px;
+}
+
+.card-title{
+  font-family: Roboto;
+  font-size: 20px;
+  color: green;
+}
+
+.card-text{
+  font-family: Roboto;
+  font-size: 20px;
+  color: red;
+}
+
+.h2{
+  align-items: center;
+  margin-left: 500px;
+}
+
+.card{
+  align-items: center;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    margin-left: 300px;
+}
+
+.text-left{
+  font-family: Roboto;
+  margin-left: 2%;
+  color: black;
+}
+
+
+.text-black{
+  margin-left:500px;
+}
+
+
+.card{
+  align-items: center;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.col-md-3{
+  margin-left:230px;
+}
+
